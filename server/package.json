@@ -1,0 +1,7 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js, Express, and PostgreSQL",
+  "main": "index.js",
+  "license": "MIT"
+}
